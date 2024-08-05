@@ -6,7 +6,7 @@ For my bachelor's thesis, I chose a topic focused on game development, but the s
 
 # 
 
-# HopHazard
+# SK
 Skákacia hra vytvorená pomocou UNITY (C#)
 # 
 
