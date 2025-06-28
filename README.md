@@ -6,6 +6,7 @@ For my bachelor's thesis, I chose a topic focused on game development, but the s
 
 # 
 Feel free to check the scripts and a short video of gameplay
+Full version zip with all files is to be found in v1.0 release
 # 
 
 # SK
@@ -16,3 +17,4 @@ Na bakalársku prácu som si vybral tému zameranú na tvorbu hier, no školite�
 
 # 
 Kľudne si pozrite skripty a krátke video z hrania.
+Plná verzia projektu vo formáte ZIP so všetkými súbormi sa nachádza v release v1.0.
